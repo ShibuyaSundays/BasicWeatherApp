@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">422CAssignment5</string>
+    <string name="cityName">CITY PLACE PLACEHOLDER</string>
+    <string name="errorMessage">Something went wrong</string>
+</resources>
